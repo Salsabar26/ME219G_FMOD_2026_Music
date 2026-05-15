@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{7ec73583-796f-4daf-8b0c-58b9e5aad459}">
+		<property name="name">
+			<value>ellenY</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c1973da5-4964-479a-9492-3e00327f2ac4}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{97bbe2ac-b900-4dc3-80ca-650bad61e6a8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{97bbe2ac-b900-4dc3-80ca-650bad61e6a8}">
+		<property name="minimum">
+			<value>-40</value>
+		</property>
+		<property name="maximum">
+			<value>20</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>
