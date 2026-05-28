@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{15187dc1-3127-4807-8447-a6076b8f378f}">
+	<object class="AudioFile" id="{0c119904-edff-4de5-8c30-69fce699fc8f}">
 		<property name="assetPath">
-			<value>Music/temp/FairyForest_100BPM/FairyForest_part4_Main_loopAB_100BPM.ogg</value>
+			<value>Music/Boss theme1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>57.600000000000001</value>
+			<value>13.090907029478458</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
