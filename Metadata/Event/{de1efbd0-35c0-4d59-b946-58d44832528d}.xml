@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{de1efbd0-35c0-4d59-b946-58d44832528d}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="name">
 			<value>Outdoor</value>
 		</property>
@@ -277,6 +280,9 @@
 		<property name="length">
 			<value>17.454541331684183</value>
 		</property>
+		<property name="volume">
+			<value>4</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{8642c81f-de45-4f13-aa6c-a25cf3b9f5b6}</destination>
 		</relationship>
@@ -303,6 +309,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>17.454541331684183</value>
+		</property>
+		<property name="volume">
+			<value>4</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{8642c81f-de45-4f13-aa6c-a25cf3b9f5b6}</destination>

@@ -5,7 +5,7 @@
 			<value>BossStage</value>
 		</property>
 		<relationship name="folder">
-			<destination>{1245282f-64d2-49a5-a193-db803b82b2df}</destination>
+			<destination>{c1973da5-4964-479a-9492-3e00327f2ac4}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{f5a39ef5-f8ae-464b-bf83-42068cb7f6f7}</destination>
