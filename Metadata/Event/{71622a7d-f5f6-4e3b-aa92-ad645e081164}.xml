@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{71622a7d-f5f6-4e3b-aa92-ad645e081164}">
+		<property name="note">
+			<value>Musiken som spelas när spelaren slåss mot bossen. Delen av låten som spelas kontrolleras av "BossStage" parametern. Den tredje delen av låten skiftar mellan udda och jämn taktart (3/16 och 6/8) och är därför kvantiserad med hjälp av sustain points, inte en transition region.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

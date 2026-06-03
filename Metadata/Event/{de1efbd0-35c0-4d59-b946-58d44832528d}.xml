@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{de1efbd0-35c0-4d59-b946-58d44832528d}">
+		<property name="note">
+			<value>Ett event med en parameter som ändar musiken för zon 1, 2 och 3.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>
@@ -124,6 +127,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{6fdbae5f-039b-475a-bfc8-7a211d050045}">
+		<property name="volume">
+			<value>-2.5</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{39e9955a-e527-4779-82a7-ba07988e93b2}</destination>
 		</relationship>
@@ -336,6 +342,9 @@
 		</property>
 		<property name="length">
 			<value>41.604172335600907</value>
+		</property>
+		<property name="volume">
+			<value>4</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{05d0eb5b-5b80-463f-990a-beed818bca9c}</destination>

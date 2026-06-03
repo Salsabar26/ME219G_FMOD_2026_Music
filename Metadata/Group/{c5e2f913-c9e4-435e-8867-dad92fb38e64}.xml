@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{c5e2f913-c9e4-435e-8867-dad92fb38e64}">
+		<property name="note">
+			<value>Stingers för game over och key pickup. En sidechain gör så att musiken duckar för dessa två stingers.</value>
+		</property>
 		<property name="name">
 			<value>Stingers</value>
 		</property>

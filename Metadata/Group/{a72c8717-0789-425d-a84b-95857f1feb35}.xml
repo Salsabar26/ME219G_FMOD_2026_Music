@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{a72c8717-0789-425d-a84b-95857f1feb35}">
+		<property name="note">
+			<value>En kompressor tar emot sidechain från stingers gruppen, och sänker volymen när en stinger spelas.</value>
+		</property>
+		<property name="volume">
+			<value>-3.5</value>
+		</property>
 		<property name="name">
 			<value>Music</value>
 		</property>

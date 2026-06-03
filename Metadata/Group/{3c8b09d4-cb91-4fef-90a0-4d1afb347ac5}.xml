@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{3c8b09d4-cb91-4fef-90a0-4d1afb347ac5}">
+		<property name="note" />
 		<property name="name">
 			<value>SFX</value>
 		</property>
@@ -16,39 +17,9 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{5c1aac12-739b-46a5-996b-4927b70841b3}">
 		<relationship name="effects">
-			<destination>{7b59c865-8db1-46de-a06e-046eb1aac5aa}</destination>
 			<destination>{c148511e-29ff-40d4-aa23-a9ad9834abcd}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{a43b34e6-b28c-414b-a2a3-d3335b57014b}" />
-	<object class="SFXReverbEffect" id="{7b59c865-8db1-46de-a06e-046eb1aac5aa}">
-		<property name="wetDryEnabled">
-			<value>true</value>
-		</property>
-		<property name="wetMix">
-			<value>0</value>
-		</property>
-		<property name="decayTime">
-			<value>2900</value>
-		</property>
-		<property name="earlyDelay">
-			<value>15</value>
-		</property>
-		<property name="lateDelay">
-			<value>22</value>
-		</property>
-		<property name="HFDecayRatio">
-			<value>100</value>
-		</property>
-		<property name="highCut">
-			<value>20000</value>
-		</property>
-		<property name="earlyLateMix">
-			<value>59</value>
-		</property>
-		<property name="wetLevel">
-			<value>-11.3000002</value>
-		</property>
-	</object>
 	<object class="MixerBusFader" id="{c148511e-29ff-40d4-aa23-a9ad9834abcd}" />
 </objects>

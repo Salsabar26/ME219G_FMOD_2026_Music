@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a5eaa161-9bc4-47fc-b2a3-68846e894701}">
+		<property name="note">
+			<value>Stinger som spelas när spelaren dör</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>
@@ -75,6 +78,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{0d3a0bbd-bee5-4d01-9a7c-8b42c9867e27}">
+		<property name="volume">
+			<value>-5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{033c570c-f7b8-4e1c-ab8b-6f7abc4fecfb}</destination>
 		</relationship>

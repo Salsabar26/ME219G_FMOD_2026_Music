@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{566905a7-23c0-4c5e-91f2-ceb27a514d12}">
+		<property name="note">
+			<value>Parameter som ändrar progressionen i musiken baserat på bossens hälsa.</value>
+		</property>
 		<property name="name">
 			<value>BossStage</value>
 		</property>

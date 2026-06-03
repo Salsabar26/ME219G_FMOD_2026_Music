@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{17774941-7037-4bb6-8581-eee41bceb4d0}">
+		<property name="note">
+			<value>Musik som spelas Zon 4.
+En parameter kallad "ellenY" förändras beroende på spelarkaraktärens Y-koordinater, och automatiserar reverb, volym och EQ.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>
